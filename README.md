@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ying See</h1>
-<h3 align="center">A passionate computer science student from Malaysia, eager for an internship experience (Oct 2025 - Jan 2026)</h3>
+<h3 align="center">A passionate computer science student from Malaysia)</h3>
 
 - 📫 How to reach me **seeyingau@gmail.com**
 
